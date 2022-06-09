@@ -102,4 +102,4 @@ function calculator(str) {
     }
 }
 
-calculator('   ');
+calculator('1+3');
