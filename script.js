@@ -102,4 +102,5 @@ function calculator(str) {
     }
 }
 
-calculator('1+3');
+console.log(calculator('1+3')); // 4
+console.log(calculator('IV+VII')); // XI
